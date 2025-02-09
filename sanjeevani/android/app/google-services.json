@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200894546867",
+    "project_id": "autism-chat-bcdba",
+    "storage_bucket": "autism-chat-bcdba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200894546867:android:60746b90c194e9e09401c6",
+        "android_client_info": {
+          "package_name": "com.example.sanjeevani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7liQt_99BT66_oHq-pgbsBplck1bVsOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
